@@ -21,7 +21,7 @@ The functions of the app include: insert, update, delete data, login user.
 
 ## 🤓 STORED PROCEDURE
 
-Support encryption data on server
+Support on server
 
 - `SP_INS_ENCRYPT_NHANVIEN `: insert data to server
 - `SP_CHECK_TAIKHOAN`: check user account
