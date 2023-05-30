@@ -1,0 +1,12 @@
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\bin\Debug\lab-04-QLNV.exe.config
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\bin\Debug\lab-04-QLNV.exe
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\bin\Debug\lab-04-QLNV.pdb
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.csproj.AssemblyReference.cache
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.csproj.SuggestedBindingRedirects.cache
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab_04_QLNV.Properties.Resources.resources
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.csproj.GenerateResource.cache
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.csproj.CoreCompileInputs.cache
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.exe
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab-04-QLNV.pdb
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab_04_QLNV.fLogin.resources
+D:\STUDY\CSC15002-BMCSDL\lab\lab-04\lab-04-QLNV\lab-04-QLNV\obj\Debug\lab_04_QLNV.fQLNV.resources
